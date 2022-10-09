@@ -7,3 +7,8 @@
 - Brake Modeling
 
 ![image](https://user-images.githubusercontent.com/98317871/194777199-3636671f-bf71-47b5-81c2-f141a34252be.png)
+
+-Tire Modeling 
+
+![image](https://user-images.githubusercontent.com/98317871/194777698-5533474d-7e89-4b5b-b19a-3251559b3e91.png)
+
